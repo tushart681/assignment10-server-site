@@ -24,7 +24,7 @@
         "details": "An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines. Algorithms are widely used throughout all areas of IT. In mathematics and computer science, an algorithm usually refers to a small procedure that solves a recurrent problem. Algorithms are also used as specifications for performing data processing and play a major role in automated systems. An algorithm could be used for sorting sets of numbers or for more complicated tasks, like recommending user content on social media. Algorithms typically start with initial input and instructions that describe a specific computation. When the computation is executed, the process produces an output."
     },
     {
-        "category_id": "5",
+        "category_id": "05",
         "title": "DDBMS",
         "image_url": "https://image.shutterstock.com/image-vector/big-data-processing-dark-isometric-260nw-1607139361.jpg",
         "details":" is a centralized application that manages a distributed database. This database system synchronizes data periodically and ensures that any change in data made by users is universally updated in the database.DDBMS is widely used in data warehousing, where huge volumes of data are processed and accessed by numerous users or database clients at the same time. This database system is used to manage data in networks, maintain confidentiality and handle data integrity. A distributed database management system is designed for heterogeneous database platforms that focus on heterogeneous database management systems."
