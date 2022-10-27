@@ -1,18 +1,18 @@
 [
     {
-        "category_id": "1",
+        "category_id": "01",
         "title": "Learn C Programming",
         "image_url": "https://contentstatic.techgig.com/photo/90325682.cms",
         "details":"C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more. It is said that ‘C’ is a god’s programming language. One can say, C is a base for the programming. If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’ It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language." 
     },
     {
-        "category_id": "2",
+        "category_id": "02",
         "title": "Learn C++ Programming",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png",
         "details":"In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees."
     },
     {
-        "category_id": "3",
+        "category_id": "03",
         "title": "Javascript",
         "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
         "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
