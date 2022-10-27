@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "C programming"
+    },
+    {
+      "id": "02",
+      "name": "C++ programming"
+    },
+    {
+      "id": "03",
+      "name": "Javascript"
+    },
+    {
+      "id": "04",
+      "name": "Algorithm"
+    },
+    {
+      "id": "05",
+      "name": "DDBMS"
+    },
+    {
+      "id": "06",
+      "name": "Computer Arcitechture"
+    }
+]
